@@ -1,0 +1,38 @@
+[Script Info]
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.14,Default,,0,0,0,,{\fad(100,100)}\b1THE SHORTEST WAR
+Dialogue: 0,0:00:01.14,0:00:02.28,Default,,0,0,0,,{\fad(100,100)}\b1IN HISTORY WAS
+Dialogue: 0,0:00:02.28,0:00:03.42,Default,,0,0,0,,{\fad(100,100)}\b1BETWEEN BRITAIN AND
+Dialogue: 0,0:00:03.42,0:00:04.56,Default,,0,0,0,,{\fad(100,100)}\b1ZANZIBAR ON AUGUST
+Dialogue: 0,0:00:04.56,0:00:05.70,Default,,0,0,0,,{\fad(100,100)}\b127, 1896, LASTING
+Dialogue: 0,0:00:05.70,0:00:06.84,Default,,0,0,0,,{\fad(100,100)}\b1ONLY 38 MINUTES.
+Dialogue: 0,0:00:06.84,0:00:07.98,Default,,0,0,0,,{\fad(100,100)}\b1ZANZIBAR SURRENDERED AFTER
+Dialogue: 0,0:00:07.98,0:00:09.12,Default,,0,0,0,,{\fad(100,100)}\b1JUST 12 MINUTES
+Dialogue: 0,0:00:09.12,0:00:10.26,Default,,0,0,0,,{\fad(100,100)}\b1OF FIGHTING, WITH
+Dialogue: 0,0:00:10.26,0:00:11.40,Default,,0,0,0,,{\fad(100,100)}\b1THE REMAINING 26
+Dialogue: 0,0:00:11.40,0:00:12.54,Default,,0,0,0,,{\fad(100,100)}\b1MINUTES SPENT ON
+Dialogue: 0,0:00:12.54,0:00:13.69,Default,,0,0,0,,{\fad(100,100)}\b1CEASEFIRE NEGOTIATIONS. THE
+Dialogue: 0,0:00:13.69,0:00:14.83,Default,,0,0,0,,{\fad(100,100)}\b1HUMAN NOSE CAN
+Dialogue: 0,0:00:14.83,0:00:15.97,Default,,0,0,0,,{\fad(100,100)}\b1DETECT OVER 1
+Dialogue: 0,0:00:15.97,0:00:17.11,Default,,0,0,0,,{\fad(100,100)}\b1TRILLION DIFFERENT SCENTS,
+Dialogue: 0,0:00:17.11,0:00:18.25,Default,,0,0,0,,{\fad(100,100)}\b1MAKING IT ONE
+Dialogue: 0,0:00:18.25,0:00:19.39,Default,,0,0,0,,{\fad(100,100)}\b1OF THE MOST
+Dialogue: 0,0:00:19.39,0:00:20.53,Default,,0,0,0,,{\fad(100,100)}\b1POWERFUL SENSES. BUTTERFLIES
+Dialogue: 0,0:00:20.53,0:00:21.67,Default,,0,0,0,,{\fad(100,100)}\b1TASTE WITH THEIR
+Dialogue: 0,0:00:21.67,0:00:22.81,Default,,0,0,0,,{\fad(100,100)}\b1FEET, HELPING THEM
+Dialogue: 0,0:00:22.81,0:00:23.95,Default,,0,0,0,,{\fad(100,100)}\b1FIND THEIR FAVORITE
+Dialogue: 0,0:00:23.95,0:00:25.09,Default,,0,0,0,,{\fad(100,100)}\b1FOODS. THE LONGEST
+Dialogue: 0,0:00:25.09,0:00:26.23,Default,,0,0,0,,{\fad(100,100)}\b1WORD IN THE
+Dialogue: 0,0:00:26.23,0:00:27.38,Default,,0,0,0,,{\fad(100,100)}\b1ENGLISH LANGUAGE HAS
+Dialogue: 0,0:00:27.38,0:00:28.52,Default,,0,0,0,,{\fad(100,100)}\b145 LETTERS, AND
+Dialogue: 0,0:00:28.52,0:00:29.66,Default,,0,0,0,,{\fad(100,100)}\b1IT REFERS TO
+Dialogue: 0,0:00:29.66,0:00:30.80,Default,,0,0,0,,{\fad(100,100)}\b1A TYPE OF
+Dialogue: 0,0:00:30.80,0:00:31.94,Default,,0,0,0,,{\fad(100,100)}\b1LUNG DISEASE.

@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets & Logs
+.env
+client_secret.json
+automation_log.txt
+content_history.json
+
+# Media Files (Don't push large videos/audio)
+*.mp3
+*.mp4
+*.jpg
+*.ass
